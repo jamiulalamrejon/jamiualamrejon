@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamiul Alam Rejon</h1>
-<h3 align="center">A passionate Ai Developer</h3>
+<h3 align="center">A passionate Ai Web Developer</h3>
 
 - 📫 How to reach me **email@jamiulalamrejon.com**
 
